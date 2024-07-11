@@ -21,7 +21,7 @@ Pricipais pilares do desenvolvimento **Full Cycle**:
 ### Full Cycle Developer x Full Cycle Stack
 
 - **Full Stack**: Habilidades de desenvolvimento. Domínio em **stacks** e **linguagens** para desenvolvimento em diversas perspectivas, como **Front-End** e **Back-End**.
-- **Full Cycle Developer**: Além de desenvolver, o desenvolvedor consegue arquitetar e entregar a aplicação de forma testada, com deplay e monitoramento.
+- **Full Cycle Developer**: Além de desenvolver, o desenvolvedor consegue arquitetar e entregar a aplicação de forma testada, com deploy e monitoramento.
 
 ## Projeto prático
 
