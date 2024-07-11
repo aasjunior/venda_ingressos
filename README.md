@@ -34,7 +34,7 @@ Desenvolvimento de um sistema de venda de ingressos
 
 ### Dinâmica do projeto
 
-![alt text](image-1.png)
+![alt text](docs/image-1.png)
 
 #### Tecnologias
 
@@ -44,15 +44,15 @@ Desenvolvimento de um sistema de venda de ingressos
 - Nest.js
 - Kong API Gateway
 
-![alt text](image-2.png)
+![alt text](docs/image-2.png)
 
 ### Arquitetura do sistema
 
-![alt text](image-3.png)
+![alt text](docs/image-3.png)
 
 #### Operação principal - Reservar ingresso
 
-![alt text](image-4.png)
+![alt text](docs/image-4.png)
 
 ### Microsserviços de parceiros de ingressos com Nest.js
 
@@ -89,7 +89,7 @@ Possui integração com vários bancos de dados por meio de vários **ORMs** fam
 - Mikro ORM
 - etc.
 
-![ ](image-5.png)
+![alt text](docs/image-5.png)
 
 
 ###### Extensões VSCode
@@ -137,10 +137,10 @@ npm run start:dev
 http://127.0.0.1:3000
 ```
 
-![alt text](image-6.png)
+![alt text](docs/image-6.png)
 
-![alt text](image-7.png)
-![alt text](image-8.png)
+![alt text](docs/image-7.png)
+![alt text](docs/image-8.png)
 
 - Criação de controller de eventos:
 ```bash
@@ -149,7 +149,7 @@ nest generate controller event
 
 - Criação de recurso com todos endponts do CRUD:
 
-![alt text](image-9.png)
+![alt text](docs/image-9.png)
 
 **Obs.**: A convensão dos nomes dos arquivos gerados automaticamente é chamada de **CoC** (Convention over configuration)
 
